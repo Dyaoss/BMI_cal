@@ -66,7 +66,7 @@ class ResultActivity : AppCompatActivity() {
         tv_resText.setTextColor(resColor)
 
         btn_back.setOnClickListener {
-            finish()
+            finish() //
         }
     }
 }
